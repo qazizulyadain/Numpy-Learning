@@ -1,1 +1,1 @@
-My daily NumPy learning notebooks
+My daily NumPy learning notebooks.
