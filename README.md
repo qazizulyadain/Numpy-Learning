@@ -1,1 +1,1 @@
-My daily NumPy learning notebooks.
+## Day-1 numpy learning
